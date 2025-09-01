@@ -1,0 +1,22 @@
+{
+  "name": "irys-token-gated",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@irys/sdk": "^0.2.11",
+    "@irys/upload": "^0.0.15",
+    "@irys/upload-ethereum": "^0.0.16",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0",
+    "hardhat": "^2.26.3"
+  }
+}
